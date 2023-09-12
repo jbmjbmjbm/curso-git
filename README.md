@@ -14,3 +14,5 @@ Aqui neste arquivo REAME teremos as informações relativas ao no projeto.
 - Github flow
 - Git flow
 - Fluxo de açãp: git checkout
+
+ git push --set-upstream origin nova-feature
